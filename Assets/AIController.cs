@@ -8,7 +8,7 @@ public class AIController : MonoBehaviour {
     public float lookRadius = 10f;
     public float awareRadius = 1f;
     NavMeshAgent agent;
-
+    //finally
 	void Start () 
     {
         agent = GetComponent<NavMeshAgent>();

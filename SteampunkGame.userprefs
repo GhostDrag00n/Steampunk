@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AIController.cs">
+    <Files>
+      <File FileName="Assets/AIController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{042D4353-0A98-21A2-4238-F2ACA5AEE376}</ProjectGuid>
+    <ProjectGuid>{C7904A89-096A-D42C-5803-3EE18AF41E14}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -52,7 +52,7 @@
      <Compile Include="Assets\NavMeshComponents\Editor\NavMeshModifierVolumeEditor.cs" />
      <Compile Include="Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs" />
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -304,37 +304,37 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="AsyncBridge.Net35">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Api">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Logging">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Unity">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.SharpZipLib">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Posix">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
  </Reference>
  <Reference Include="ReadOnlyCollectionsInterfaces">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
  </Reference>
  <Reference Include="sfw.net">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
  </Reference>
  <Reference Include="System.Threading">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
  </Reference>
  <Reference Include="TextMeshPro-2017.3-Editor">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll</HintPath>
  </Reference>
  <Reference Include="TextMeshPro-2017.3-Runtime">
- <HintPath>/Users/grisha.pavlov/Projects/_in process/Steampunk/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
+ <HintPath>/Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/Users/grisha.pavlov/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -390,11 +390,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{779C5E49-9A60-1E56-341C-04CC3E0970C3}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{DBCFD3D0-22B2-4853-D394-8FFBF8567F81}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{9AA689C5-2D00-C0EF-1F14-7ED02A89B7D0}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{84303DA0-E908-D0D7-45F5-15E7313ADD1E}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{DA58B0E6-2AB3-0FCE-CBBE-82EF9E39489C}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
+      <Project>{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

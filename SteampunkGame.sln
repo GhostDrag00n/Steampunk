@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteampunkGame", "Assembly-CSharp.csproj", "{84303DA0-E908-D0D7-45F5-15E7313ADD1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteampunkGame", "Assembly-CSharp-firstpass.csproj", "{DBCFD3D0-22B2-4853-D394-8FFBF8567F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteampunkGame", "Assembly-CSharp-Editor-firstpass.csproj", "{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteampunkGame", "Assembly-CSharp-Editor.csproj", "{C7904A89-096A-D42C-5803-3EE18AF41E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84303DA0-E908-D0D7-45F5-15E7313ADD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84303DA0-E908-D0D7-45F5-15E7313ADD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84303DA0-E908-D0D7-45F5-15E7313ADD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84303DA0-E908-D0D7-45F5-15E7313ADD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCFD3D0-22B2-4853-D394-8FFBF8567F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCFD3D0-22B2-4853-D394-8FFBF8567F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCFD3D0-22B2-4853-D394-8FFBF8567F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCFD3D0-22B2-4853-D394-8FFBF8567F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7904A89-096A-D42C-5803-3EE18AF41E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7904A89-096A-D42C-5803-3EE18AF41E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7904A89-096A-D42C-5803-3EE18AF41E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7904A89-096A-D42C-5803-3EE18AF41E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
