@@ -1,7 +1,9 @@
-﻿<Properties StartupConfiguration="{90BA62B5-750F-97D4-5D69-F5B66A9BB1E8}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AIController.cs">
+﻿<Properties StartupConfiguration="{4575B197-A67C-6A5E-D6AE-0447EED441F6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sctipts/AIController.cs">
     <Files>
-      <File FileName="Assets/AIController.cs" Line="11" Column="14" />
+      <File FileName="Assets/Sctipts/Steam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sctipts/PlayerController.cs" Line="11" Column="67" />
+      <File FileName="Assets/Sctipts/AIController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,6 +11,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SteampunkGame PreferredExecutionTarget="Unity.Editor" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -334,20 +334,19 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AIController.cs" />
     <Compile Include="Assets\Arena\Example\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
     <Compile Include="Assets\Arena\Example\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
-    <Compile Include="Assets\PlayerController.cs" />
-    <Compile Include="Assets\PlayerDetection.cs" />
     <Compile Include="Assets\Sctipts\AI\FollowingEnemy.cs" />
+    <Compile Include="Assets\Sctipts\AIController.cs" />
     <Compile Include="Assets\Sctipts\Bullet.cs" />
     <Compile Include="Assets\Sctipts\Gun.cs" />
     <Compile Include="Assets\Sctipts\LevelChanger.cs" />
     <Compile Include="Assets\Sctipts\Player\CharacterControllerDash.cs" />
+    <Compile Include="Assets\Sctipts\PlayerController.cs" />
     <Compile Include="Assets\Sctipts\Shoot.cs" />
     <Compile Include="Assets\Sctipts\Steam.cs" />
     <Compile Include="Assets\Sctipts\Target.cs" />
