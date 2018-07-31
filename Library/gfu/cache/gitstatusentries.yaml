@@ -12,105 +12,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-07-30T06:41:34.222+03:00
-  initializedAtString: 2018-07-30T06:16:09.959+03:00
+  lastUpdatedAtString: 2018-07-30T18:51:41.644+03:00
+  initializedAtString: 2018-07-30T07:53:44.124+03:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/AIController.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/AIController.cs
-    projectPath: Assets/AIController.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/AIController.cs.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/AIController.cs.meta
-    projectPath: Assets/AIController.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Delete it.unity
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Delete
-      it.unity
-    projectPath: Assets/Delete it.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/PlayerController.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/PlayerController.cs
-    projectPath: Assets/PlayerController.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/PlayerController.cs.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/PlayerController.cs.meta
-    projectPath: Assets/PlayerController.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/PlayerDetection.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/PlayerDetection.cs
-    projectPath: Assets/PlayerDetection.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/PlayerDetection.cs.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/PlayerDetection.cs.meta
-    projectPath: Assets/PlayerDetection.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Sctipts/AIController.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/AIController.cs
-    projectPath: Assets/Sctipts/AIController.cs
+  - path: Assets/Enemy1.prefab
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Enemy1.prefab
+    projectPath: Assets/Enemy1.prefab
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets/Sctipts/AIController.cs.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/AIController.cs.meta
-    projectPath: Assets/Sctipts/AIController.cs.meta
+  - path: Assets/Enemy1.prefab.meta
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Enemy1.prefab.meta
+    projectPath: Assets/Enemy1.prefab.meta
     originalPath: 
     status: 1
-    staged: 0
-  - path: Assets/Sctipts/PlayerController.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/PlayerController.cs
-    projectPath: Assets/Sctipts/PlayerController.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Sctipts/PlayerController.cs.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/PlayerController.cs.meta
-    projectPath: Assets/Sctipts/PlayerController.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/ship_format.blend
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format.blend
-    projectPath: Assets/ship_format.blend
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/ship_format.blend.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format.blend.meta
-    projectPath: Assets/ship_format.blend.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/ship_format-2.blend
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format-2.blend
-    projectPath: Assets/ship_format-2.blend
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/ship_format-2.blend.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format-2.blend.meta
-    projectPath: Assets/ship_format-2.blend.meta
-    originalPath: 
-    status: 5
     staged: 0
   - path: Library/assetDatabase3
     fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/assetDatabase3
@@ -130,21 +45,9 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library/gfu/cache/branches.yaml
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -166,111 +69,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/InspectorExpandedItems.asset
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
+  - path: Library/metadata/98/9861e8581d04744278ab03a125267fbf
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/98/9861e8581d04744278ab03a125267fbf
+    projectPath: Library/metadata/98/9861e8581d04744278ab03a125267fbf
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Library/metadata/04/040e2bcd947974c04af19e4cd0609883
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/04/040e2bcd947974c04af19e4cd0609883
-    projectPath: Library/metadata/04/040e2bcd947974c04af19e4cd0609883
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/metadata/04/040e2bcd947974c04af19e4cd0609883.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/04/040e2bcd947974c04af19e4cd0609883.info
-    projectPath: Library/metadata/04/040e2bcd947974c04af19e4cd0609883.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a
-    projectPath: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a.info
-    projectPath: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/metadata/64/642ed2e5e139947019c5b491e81b1649
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/64/642ed2e5e139947019c5b491e81b1649
-    projectPath: Library/metadata/64/642ed2e5e139947019c5b491e81b1649
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/metadata/64/642ed2e5e139947019c5b491e81b1649.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/64/642ed2e5e139947019c5b491e81b1649.info
-    projectPath: Library/metadata/64/642ed2e5e139947019c5b491e81b1649.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
-    projectPath: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6.info
-    projectPath: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56
-    projectPath: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56.info
-    projectPath: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/Assembly-CSharp.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+  - path: Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
+    projectPath: Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
     originalPath: 
     status: 1
     staged: 0
   - path: Library/shadercompiler-UnityShaderCompiler0.log
     fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler0.log
     projectPath: Library/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: SteampunkGame.csproj
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/SteampunkGame.csproj
-    projectPath: SteampunkGame.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: SteampunkGame.sln
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/SteampunkGame.sln
-    projectPath: SteampunkGame.sln
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: SteampunkGame.userprefs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/SteampunkGame.userprefs
-    projectPath: SteampunkGame.userprefs
     originalPath: 
     status: 3
     staged: 0
@@ -292,147 +105,33 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-0062bb7098f0541e9b00302dcbe14ad8
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-0062bb7098f0541e9b00302dcbe14ad8
-    projectPath: Temp/UnityTempFile-0062bb7098f0541e9b00302dcbe14ad8
+  - path: Temp/UnityTempFile-4bf8b18071c7c45d698189b087adbcb7
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-4bf8b18071c7c45d698189b087adbcb7
+    projectPath: Temp/UnityTempFile-4bf8b18071c7c45d698189b087adbcb7
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-1ea0240674791470d9491d528ac79ef2
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-1ea0240674791470d9491d528ac79ef2
-    projectPath: Temp/UnityTempFile-1ea0240674791470d9491d528ac79ef2
+  - path: Temp/UnityTempFile-a18a151d0506c4b39a169cb8fe54b51f
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-a18a151d0506c4b39a169cb8fe54b51f
+    projectPath: Temp/UnityTempFile-a18a151d0506c4b39a169cb8fe54b51f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-2c3f0b34ff2904f7792aafdfd53487eb
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-2c3f0b34ff2904f7792aafdfd53487eb
-    projectPath: Temp/UnityTempFile-2c3f0b34ff2904f7792aafdfd53487eb
+  - path: Temp/UnityTempFile-f2674d441ac8644ef97a9c19e4248a59
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-f2674d441ac8644ef97a9c19e4248a59
+    projectPath: Temp/UnityTempFile-f2674d441ac8644ef97a9c19e4248a59
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-32344aa3172bc48d88f4556bb6e72812
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-32344aa3172bc48d88f4556bb6e72812
-    projectPath: Temp/UnityTempFile-32344aa3172bc48d88f4556bb6e72812
+  - path: Temp/UnityTempFile-fa9c8fe97eac64e58b7d72b979662f67
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-fa9c8fe97eac64e58b7d72b979662f67
+    projectPath: Temp/UnityTempFile-fa9c8fe97eac64e58b7d72b979662f67
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp/UnityTempFile-436ed0c96356240c987b62b547785e2b
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-436ed0c96356240c987b62b547785e2b
-    projectPath: Temp/UnityTempFile-436ed0c96356240c987b62b547785e2b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-44224303f4a9b4fb2a1135609e982d42
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-44224303f4a9b4fb2a1135609e982d42
-    projectPath: Temp/UnityTempFile-44224303f4a9b4fb2a1135609e982d42
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-4d84197b40ea5465cbcf82a641cfc12f
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-4d84197b40ea5465cbcf82a641cfc12f
-    projectPath: Temp/UnityTempFile-4d84197b40ea5465cbcf82a641cfc12f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-57a56ce04ca9f4ad4b9709c85c85d355
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-57a56ce04ca9f4ad4b9709c85c85d355
-    projectPath: Temp/UnityTempFile-57a56ce04ca9f4ad4b9709c85c85d355
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-5f82f93b5ee9e4a7e878b19b05ed11ad
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-5f82f93b5ee9e4a7e878b19b05ed11ad
-    projectPath: Temp/UnityTempFile-5f82f93b5ee9e4a7e878b19b05ed11ad
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-72e9e23eb763f417aab634623988b3fd
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-72e9e23eb763f417aab634623988b3fd
-    projectPath: Temp/UnityTempFile-72e9e23eb763f417aab634623988b3fd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-74ae1d9973bf945e9b3abef16ee7ed54
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-74ae1d9973bf945e9b3abef16ee7ed54
-    projectPath: Temp/UnityTempFile-74ae1d9973bf945e9b3abef16ee7ed54
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-835f7ea5c3a0444acb485995972f9266
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-835f7ea5c3a0444acb485995972f9266
-    projectPath: Temp/UnityTempFile-835f7ea5c3a0444acb485995972f9266
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-8654b232e2b8a4552b0cc642f02c290b
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-8654b232e2b8a4552b0cc642f02c290b
-    projectPath: Temp/UnityTempFile-8654b232e2b8a4552b0cc642f02c290b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-88de8c1bdf99a404597412f019ae08d1
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-88de8c1bdf99a404597412f019ae08d1
-    projectPath: Temp/UnityTempFile-88de8c1bdf99a404597412f019ae08d1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-94c1f51c983a44184bc58f8f0285ed05
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-94c1f51c983a44184bc58f8f0285ed05
-    projectPath: Temp/UnityTempFile-94c1f51c983a44184bc58f8f0285ed05
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-9ff3a9c229ae74ebca37ef3c5730aa1f
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-9ff3a9c229ae74ebca37ef3c5730aa1f
-    projectPath: Temp/UnityTempFile-9ff3a9c229ae74ebca37ef3c5730aa1f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-a012c9661f9f7413aa9d2d4da456b5ca
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-a012c9661f9f7413aa9d2d4da456b5ca
-    projectPath: Temp/UnityTempFile-a012c9661f9f7413aa9d2d4da456b5ca
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-a4ddd4eb9c0594b108afcd236b4ab800
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-a4ddd4eb9c0594b108afcd236b4ab800
-    projectPath: Temp/UnityTempFile-a4ddd4eb9c0594b108afcd236b4ab800
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-a84ed9f18f22248fb90f3de87b32420b
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-a84ed9f18f22248fb90f3de87b32420b
-    projectPath: Temp/UnityTempFile-a84ed9f18f22248fb90f3de87b32420b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-ae26b4637250f4b798aeebd8cb769408
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-ae26b4637250f4b798aeebd8cb769408
-    projectPath: Temp/UnityTempFile-ae26b4637250f4b798aeebd8cb769408
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-c3aee91b705e3461f92325660aa96828
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-c3aee91b705e3461f92325660aa96828
-    projectPath: Temp/UnityTempFile-c3aee91b705e3461f92325660aa96828
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-eb450608a451243869575b5e13914b0a
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-eb450608a451243869575b5e13914b0a
-    projectPath: Temp/UnityTempFile-eb450608a451243869575b5e13914b0a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-f222f2043386f48ba91bc1cc369eb75b
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-f222f2043386f48ba91bc1cc369eb75b
-    projectPath: Temp/UnityTempFile-f222f2043386f48ba91bc1cc369eb75b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-f7983a4b6e3d14f8eb8612111d7acac5
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-f7983a4b6e3d14f8eb8612111d7acac5
-    projectPath: Temp/UnityTempFile-f7983a4b6e3d14f8eb8612111d7acac5
+  - path: Temp/UnityTempFile-fc0d9344532b04673a48aaa374a8281a
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityTempFile-fc0d9344532b04673a48aaa374a8281a
+    projectPath: Temp/UnityTempFile-fc0d9344532b04673a48aaa374a8281a
     originalPath: 
     status: 1
     staged: 0
