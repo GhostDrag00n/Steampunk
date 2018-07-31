@@ -12,9 +12,395 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-07-30T06:25:31.936+03:00
-  initializedAtString: 2018-07-30T06:16:09.585+03:00
+  lastUpdatedAtString: 2018-08-01T00:05:43.031+03:00
+  initializedAtString: 2018-08-01T00:05:43.031+03:00
   log:
+  - commitID: fa89134333bedc7e2e014c9409c18bcb87b8b6f4
+    mergeA: 
+    mergeB: 
+    authorName: GhostDrag00n
+    authorEmail: grisha.pavlov@icloud.com
+    commitEmail: grisha.pavlov@icloud.com
+    commitName: GhostDrag00n
+    summary: AI
+    description: AI
+    timeString: 2018-07-31T18:54:39.000+03:00
+    commitTimeString: 2018-07-31T18:54:39.000+03:00
+    changes:
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f733c9fd6ded729bd848b86bb2c544a53a5ecc44
+    mergeA: d4e2657fcbd8d94d1541cce25637765bae076e0c
+    mergeB: d5cdb9e2e6f1f00db935cfacb4bb8e31025b090a
+    authorName: GhostDrag00n
+    authorEmail: grisha.pavlov@icloud.com
+    commitEmail: grisha.pavlov@icloud.com
+    commitName: GhostDrag00n
+    summary: Merge branch 'master' of https://github.com/GhostDrag00n/Steampunk
+    description: Merge branch 'master' of https://github.com/GhostDrag00n/Steampunk
+    timeString: 2018-07-31T18:54:34.000+03:00
+    commitTimeString: 2018-07-31T18:54:34.000+03:00
+    changes: []
+  - commitID: d5cdb9e2e6f1f00db935cfacb4bb8e31025b090a
+    mergeA: 
+    mergeB: 
+    authorName: GhotsDrag00n
+    authorEmail: 41834170+GhostDrag00n@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create .gitignore
+    description: Create .gitignore
+    timeString: 2018-07-31T18:54:28.000+03:00
+    commitTimeString: 2018-07-31T18:54:28.000+03:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: d4e2657fcbd8d94d1541cce25637765bae076e0c
+    mergeA: 
+    mergeB: 
+    authorName: GhostDrag00n
+    authorEmail: grisha.pavlov@icloud.com
+    commitEmail: grisha.pavlov@icloud.com
+    commitName: GhostDrag00n
+    summary: AI
+    description: AI
+    timeString: 2018-07-31T18:45:30.000+03:00
+    commitTimeString: 2018-07-31T18:45:30.000+03:00
+    changes:
+    - path: Assets/Delete it.unity
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Delete
+        it.unity
+      projectPath: Assets/Delete it.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Enemy1.prefab
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Enemy1.prefab
+      projectPath: Assets/Enemy1.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Enemy1.prefab.meta
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Enemy1.prefab.meta
+      projectPath: Assets/Enemy1.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/CurrentLayout.dwlt
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/98/9861e8581d04744278ab03a125267fbf
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/98/9861e8581d04744278ab03a125267fbf
+      projectPath: Library/metadata/98/9861e8581d04744278ab03a125267fbf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
+      projectPath: Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp/UnityLockfile
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 49aac5a864d2ef0e35980789e68ec6a9d518d08b
+    mergeA: 
+    mergeB: 
+    authorName: GhostDrag00n
+    authorEmail: grisha.pavlov@icloud.com
+    commitEmail: grisha.pavlov@icloud.com
+    commitName: GhostDrag00n
+    summary: AI
+    description: AI
+    timeString: 2018-07-30T07:52:18.000+03:00
+    commitTimeString: 2018-07-30T07:52:18.000+03:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Delete it.unity
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Delete
+        it.unity
+      projectPath: Assets/Delete it.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/PlayerDetection.cs
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/PlayerDetection.cs
+      projectPath: Assets/PlayerDetection.cs
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/PlayerDetection.cs.meta
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/PlayerDetection.cs.meta
+      projectPath: Assets/PlayerDetection.cs.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Sctipts/AIController.cs
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/AIController.cs
+      projectPath: Assets/Sctipts/AIController.cs
+      originalPath: Assets/AIController.cs
+      status: 6
+      staged: 0
+    - path: Assets/Sctipts/AIController.cs.meta
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/AIController.cs.meta
+      projectPath: Assets/Sctipts/AIController.cs.meta
+      originalPath: Assets/AIController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets/Sctipts/PlayerController.cs
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/PlayerController.cs
+      projectPath: Assets/Sctipts/PlayerController.cs
+      originalPath: Assets/PlayerController.cs
+      status: 6
+      staged: 0
+    - path: Assets/Sctipts/PlayerController.cs.meta
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/PlayerController.cs.meta
+      projectPath: Assets/Sctipts/PlayerController.cs.meta
+      originalPath: Assets/PlayerController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets/ship_format-2.blend
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format-2.blend
+      projectPath: Assets/ship_format-2.blend
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/ship_format-2.blend.meta
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format-2.blend.meta
+      projectPath: Assets/ship_format-2.blend.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/ship_format.blend
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format.blend
+      projectPath: Assets/ship_format.blend
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/ship_format.blend.meta
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format.blend.meta
+      projectPath: Assets/ship_format.blend.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/CurrentLayout.dwlt
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/expandedItems
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/04/040e2bcd947974c04af19e4cd0609883
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/04/040e2bcd947974c04af19e4cd0609883
+      projectPath: Library/metadata/04/040e2bcd947974c04af19e4cd0609883
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/metadata/04/040e2bcd947974c04af19e4cd0609883.info
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/04/040e2bcd947974c04af19e4cd0609883.info
+      projectPath: Library/metadata/04/040e2bcd947974c04af19e4cd0609883.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a
+      projectPath: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a.info
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a.info
+      projectPath: Library/metadata/3e/3e10256175bd94acdace5c8a6f55263a.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/metadata/64/642ed2e5e139947019c5b491e81b1649
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/64/642ed2e5e139947019c5b491e81b1649
+      projectPath: Library/metadata/64/642ed2e5e139947019c5b491e81b1649
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/metadata/64/642ed2e5e139947019c5b491e81b1649.info
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/64/642ed2e5e139947019c5b491e81b1649.info
+      projectPath: Library/metadata/64/642ed2e5e139947019c5b491e81b1649.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
+      projectPath: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6.info
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6.info
+      projectPath: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56
+      projectPath: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56.info
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56.info
+      projectPath: Library/metadata/bc/bcb84bed5d0604e19a8aaf0712b67d56.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: SteampunkGame.csproj
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/SteampunkGame.csproj
+      projectPath: SteampunkGame.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: SteampunkGame.sln
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/SteampunkGame.sln
+      projectPath: SteampunkGame.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: SteampunkGame.userprefs
+      fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/SteampunkGame.userprefs
+      projectPath: SteampunkGame.userprefs
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: b5da103503155c4f607ab150799dcb044b44a393
     mergeA: 
     mergeB: 
