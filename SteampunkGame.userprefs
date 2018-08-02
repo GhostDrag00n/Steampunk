@@ -4,7 +4,7 @@
       <File FileName="Assets/Sctipts/Steam.cs" Line="1" Column="1" />
       <File FileName="Assets/Sctipts/PlayerController.cs" Line="11" Column="67" />
       <File FileName="Assets/Sctipts/AIController.cs" Line="1" Column="1" />
-      <File FileName="Assets/MainManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/MainManager.cs" Line="12" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
