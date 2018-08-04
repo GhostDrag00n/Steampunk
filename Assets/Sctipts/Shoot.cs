@@ -18,6 +18,8 @@ public class Shoot : MonoBehaviour
     public int ammoLeft;
     public Text AmmoText;
 
+    public float damage = 10f;
+
     private void Start()
     {
         AmmoText.text = ammoLeft.ToString() + " / " + Ammo.ToString();

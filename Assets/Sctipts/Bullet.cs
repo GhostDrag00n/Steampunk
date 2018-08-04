@@ -6,12 +6,11 @@ public class Bullet : MonoBehaviour {
 
     public float damage;
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider hit)
     {
-        Target target = collision.gameObject.GetComponent<Target>();
-        if (target != null)
+        if (hit.tag == "Enemy")
         {
-            target.TakeDamage(damage);
+            hit.gameObject.GetComponent<AIController>().TakeDamage(damage);
         }
     }
 }
