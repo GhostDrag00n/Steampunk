@@ -12,39 +12,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-04T03:00:56.414+03:00
+  lastUpdatedAtString: 2018-08-06T18:50:47.570+03:00
   initializedAtString: 2018-08-03T00:53:28.930+03:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/MainManager.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/MainManager.cs
-    projectPath: Assets/MainManager.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/Prefabs/Bullet.prefab
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Prefabs/Bullet.prefab
-    projectPath: Assets/Prefabs/Bullet.prefab
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/Prefabs/Enemy1.prefab
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Prefabs/Enemy1.prefab
-    projectPath: Assets/Prefabs/Enemy1.prefab
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/Scenes/Delete it.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Delete
-      it.meta
-    projectPath: Assets/Scenes/Delete it.meta
+  - path: Assets/Prefabs/Canvas 1.prefab
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Prefabs/Canvas
+      1.prefab
+    projectPath: Assets/Prefabs/Canvas 1.prefab
     originalPath: 
     status: 1
+    staged: 0
+  - path: Assets/Prefabs/Canvas 1.prefab.meta
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Prefabs/Canvas
+      1.prefab.meta
+    projectPath: Assets/Prefabs/Canvas 1.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scenes/asdsa.unity
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/asdsa.unity
+    projectPath: Assets/Scenes/asdsa.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Scenes/asdsa.unity.meta
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/asdsa.unity.meta
+    projectPath: Assets/Scenes/asdsa.unity.meta
+    originalPath: 
+    status: 5
     staged: 0
   - path: Assets/Scenes/Delete it.unity
     fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Delete
@@ -53,85 +48,34 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets/Scenes/Delete it/LightingData.asset
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Delete
-      it/LightingData.asset
-    projectPath: Assets/Scenes/Delete it/LightingData.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Delete it/LightingData.asset.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Delete
-      it/LightingData.asset.meta
-    projectPath: Assets/Scenes/Delete it/LightingData.asset.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Delete it/ReflectionProbe-0.exr
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Delete
-      it/ReflectionProbe-0.exr
-    projectPath: Assets/Scenes/Delete it/ReflectionProbe-0.exr
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Delete it/ReflectionProbe-0.exr.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Delete
-      it/ReflectionProbe-0.exr.meta
-    projectPath: Assets/Scenes/Delete it/ReflectionProbe-0.exr.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Menu.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Menu.meta
-    projectPath: Assets/Scenes/Menu.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Menu.unity
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Menu.unity
-    projectPath: Assets/Scenes/Menu.unity
+  - path: Assets/Scenes/Test.unity
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Test.unity
+    projectPath: Assets/Scenes/Test.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets/Scenes/Menu/LightingData.asset
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Menu/LightingData.asset
-    projectPath: Assets/Scenes/Menu/LightingData.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Menu/LightingData.asset.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Menu/LightingData.asset.meta
-    projectPath: Assets/Scenes/Menu/LightingData.asset.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Menu/ReflectionProbe-0.exr
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Menu/ReflectionProbe-0.exr
-    projectPath: Assets/Scenes/Menu/ReflectionProbe-0.exr
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Scenes/Menu/ReflectionProbe-0.exr.meta
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Scenes/Menu/ReflectionProbe-0.exr.meta
-    projectPath: Assets/Scenes/Menu/ReflectionProbe-0.exr.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/Sctipts/AIController.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/AIController.cs
-    projectPath: Assets/Sctipts/AIController.cs
+  - path: Assets/Sctipts/LevelChanger.cs
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/LevelChanger.cs
+    projectPath: Assets/Sctipts/LevelChanger.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets/Sctipts/Bullet.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/Bullet.cs
-    projectPath: Assets/Sctipts/Bullet.cs
+  - path: Assets/ship_format-3.blend
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format-3.blend
+    projectPath: Assets/ship_format-3.blend
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Assets/Sctipts/Shoot.cs
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Sctipts/Shoot.cs
-    projectPath: Assets/Sctipts/Shoot.cs
+  - path: Assets/ship_format-3.blend.meta
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/ship_format-3.blend.meta
+    projectPath: Assets/ship_format-3.blend.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Assets/Standard
+      Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+    projectPath: Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
     originalPath: 
     status: 3
     staged: 0
@@ -141,15 +85,27 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/CurrentMaximizeLayout.dwlt
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/CurrentMaximizeLayout.dwlt
-    projectPath: Library/CurrentMaximizeLayout.dwlt
+  - path: Library/EditorUserBuildSettings.asset
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -177,45 +133,93 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/8e/8ed10705307664da19810f84070c68d1.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/8e/8ed10705307664da19810f84070c68d1.info
-    projectPath: Library/metadata/8e/8ed10705307664da19810f84070c68d1.info
+  - path: Library/LastBuild.buildreport
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/LastBuild.buildreport
+    projectPath: Library/LastBuild.buildreport
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
-    projectPath: Library/metadata/98/9861e8581d04744278ab03a125267fbf.info
+  - path: Library/metadata/05/05ec5cf00ca181d45a42ba1870e148c3
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/05/05ec5cf00ca181d45a42ba1870e148c3
+    projectPath: Library/metadata/05/05ec5cf00ca181d45a42ba1870e148c3
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/99/992df8ac6d9ce4aec8fcf899a1647233
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/99/992df8ac6d9ce4aec8fcf899a1647233
-    projectPath: Library/metadata/99/992df8ac6d9ce4aec8fcf899a1647233
+  - path: Library/metadata/5b/5bb23c37e27eb4ea3b8c38501f446f80
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/5b/5bb23c37e27eb4ea3b8c38501f446f80
+    projectPath: Library/metadata/5b/5bb23c37e27eb4ea3b8c38501f446f80
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/a0/a046617acd93c408f9c07e309b97e0ba
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/a0/a046617acd93c408f9c07e309b97e0ba
-    projectPath: Library/metadata/a0/a046617acd93c408f9c07e309b97e0ba
+  - path: Library/metadata/c4/c4ea41df1aacc4b0ba131a5f32af7d1f
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/c4/c4ea41df1aacc4b0ba131a5f32af7d1f
+    projectPath: Library/metadata/c4/c4ea41df1aacc4b0ba131a5f32af7d1f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/c4/c4ea41df1aacc4b0ba131a5f32af7d1f.info
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/c4/c4ea41df1aacc4b0ba131a5f32af7d1f.info
+    projectPath: Library/metadata/c4/c4ea41df1aacc4b0ba131a5f32af7d1f.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/PlayerDataCache/Data/globalgamemanagers
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/globalgamemanagers
+    projectPath: Library/PlayerDataCache/Data/globalgamemanagers
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/a0/a046617acd93c408f9c07e309b97e0ba.info
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/a0/a046617acd93c408f9c07e309b97e0ba.info
-    projectPath: Library/metadata/a0/a046617acd93c408f9c07e309b97e0ba.info
+  - path: Library/PlayerDataCache/Data/globalgamemanagers.assets
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/globalgamemanagers.assets
+    projectPath: Library/PlayerDataCache/Data/globalgamemanagers.assets
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
-    projectPath: Library/metadata/a8/a80daffe78f394c1a928f2c42c6e80f6
+  - path: Library/PlayerDataCache/Data/level0
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/level0
+    projectPath: Library/PlayerDataCache/Data/level0
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/ec/ec6c9cc3a99f34b0cad525236599c073
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/metadata/ec/ec6c9cc3a99f34b0cad525236599c073
-    projectPath: Library/metadata/ec/ec6c9cc3a99f34b0cad525236599c073
+  - path: Library/PlayerDataCache/Data/level0.resS
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/level0.resS
+    projectPath: Library/PlayerDataCache/Data/level0.resS
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+    projectPath: Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/PlayerDataCache/Data/resources.assets
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/resources.assets
+    projectPath: Library/PlayerDataCache/Data/resources.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/PlayerDataCache/Data/resources.assets.resS
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/resources.assets.resS
+    projectPath: Library/PlayerDataCache/Data/resources.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/PlayerDataCache/Data/sharedassets0.assets
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/sharedassets0.assets
+    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/PlayerDataCache/ScriptLayoutHashes.txt
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/PlayerDataCache/ScriptLayoutHashes.txt
+    projectPath: Library/PlayerDataCache/ScriptLayoutHashes.txt
     originalPath: 
     status: 3
     staged: 0
@@ -231,21 +235,39 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/shadercompiler-UnityShaderCompiler0.log
     fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler0.log
     projectPath: Library/shadercompiler-UnityShaderCompiler0.log
     originalPath: 
     status: 3
     staged: 0
-  - path: ProjectSettings/EditorBuildSettings.asset
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/ProjectSettings/EditorBuildSettings.asset
-    projectPath: ProjectSettings/EditorBuildSettings.asset
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
     originalPath: 
     status: 3
     staged: 0
-  - path: ProjectSettings/TagManager.asset
-    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/grisha.pavlov/Projects/_in process/SteampunkGame/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
     originalPath: 
     status: 3
     staged: 0

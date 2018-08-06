@@ -4,11 +4,12 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LevelChanger : MonoBehaviour {
-    
+
+    public GameObject PlayerUI;
     public GameObject LevelManagerUI;
     public GameObject HintUI;
     public GameObject player;
-    public Camera MenuCam;
+
     private void Start()
     {
         LevelManagerUI.SetActive(false);
@@ -17,31 +18,28 @@ public class LevelChanger : MonoBehaviour {
 
     private void OnTriggerStay(Collider hit)
     {
-        bool MenuActive = false;
+        bool LevelManagerUIActive = false;
         if(hit.gameObject.tag == "Player")
         {
             if (Input.GetKeyDown("e"))
             {
+                UnityStandardAssets.Characters.FirstPerson.MouseLook FPC = player.GetComponent<UnityStandardAssets.Characters.FirstPerson.FirstPersonController>().m_MouseLook;
                 Debug.Log("e");
-                if (MenuActive == false)
+                if (LevelManagerUIActive == false)
                 {
-                    MenuActive = true;
+                    LevelManagerUIActive = true;
                     HintUI.SetActive(false);
-                    //DisableMovement();
-                    MenuCam.transform.position = player.transform.position;
-                    MenuCam.transform.rotation = player.transform.rotation;
-                    player.SetActive(false);
-                    Cursor.visible = true;
-                    MenuCam.enabled = true;
+                    MovementSwitch();
+                    FPC.SetCursorLock(false);
                     LevelManagerUI.SetActive(true);
+                    PlayerUI.SetActive(true);
                 }else{
-                    MenuActive = false;
+                    LevelManagerUIActive = false;
                     HintUI.SetActive(true);
-                    //EnableMovement();
-                    Cursor.visible = false;
-                    player.SetActive(true);
-                    MenuCam.enabled = false;
+                    FPC.SetCursorLock(true);
+                    MovementSwitch();
                     LevelManagerUI.SetActive(false);
+                    PlayerUI.SetActive(true);
                 }
 
             }
@@ -49,34 +47,21 @@ public class LevelChanger : MonoBehaviour {
 
     }
 
+    void MovementSwitch()
+    {
+        player.GetComponent<CharacterController>().enabled = !player.GetComponent<CharacterController>().enabled;
+        player.GetComponent<UnityStandardAssets.Characters.FirstPerson.FirstPersonController>().enabled = !player.GetComponent<UnityStandardAssets.Characters.FirstPerson.FirstPersonController>().enabled;
+        player.GetComponent<Shoot>().enabled = !player.GetComponent<Shoot>().enabled;
+    }
+
     private void OnTriggerEnter(Collider hit)
     {
         Debug.Log(hit.gameObject.name);
         Debug.Log(Input.GetKey("e"));
-        HintUI.SetActive(true);
         if (hit.gameObject.tag == "Player")
         {
             HintUI.SetActive(true);
         }
-    }
-
-    void DisableMovement()
-    {
-        //player.GetComponentInChildren<Camera>().enabled = false;
-        player.SetActive(false);
-        Cursor.visible = true;
-        MenuCam.transform.position = player.transform.position;
-        MenuCam.enabled = true;
-        LevelManagerUI.SetActive(true);
-    }
-
-    void EnableMovement()
-    {
-        Cursor.visible = false;
-        player.SetActive(true);
-        //MenuCam.transform.position = player.transform.position;
-        MenuCam.enabled = false;
-        LevelManagerUI.SetActive(false);
     }
 
     private void OnTriggerExit(Collider hit)
